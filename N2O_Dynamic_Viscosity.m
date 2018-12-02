@@ -8,7 +8,7 @@ b2 = 2.0439;
 b3 = 5.24; 
 b4 = 0.0293423;
 
-N20_Critical_Temperature = 309.57;  % Kelvin
+N2O_Critical_Temperature = 309.57;  % Kelvin
 
 theta =( N2O_Critical_Temperature - b3)/(N2O_Temperature-b3);
 
